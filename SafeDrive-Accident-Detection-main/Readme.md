@@ -106,7 +106,14 @@ yolo detect val model=runs/detect/train/weights/best.pt data=data.yaml
 ## Screenshots
 
 Coming soon...
+## 🙏 Acknowledgment
 
+This project was developed with reference to the SafeDrive Accident Detection project by **Saswata Pal**.
+
+GitHub Reference:
+https://github.com/Saswata-pal/SafeDrive-Accident-Detection
+
+The implementation was modified for learning and development purposes.
 
 ## 🤝 Contributing
 #### Feel free to fork & improve this project. Pull requests are welcome!
